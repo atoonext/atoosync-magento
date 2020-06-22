@@ -1,0 +1,13 @@
+{
+  "name": "ablanchard-atoonext/github-magento-module",
+  "type": "magento2-module",
+  "description": "test de module Magento",
+  "autoload": {
+    "psr-4": {
+      "AtooSync\\GesCom\\": ""
+    },
+    "files": [
+      "registration.php"
+    ]
+  }
+}
