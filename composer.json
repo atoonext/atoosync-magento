@@ -1,7 +1,7 @@
 {
-  "name": "ablanchard-atoonext/github-magento-module",
+  "name": "atoonext/atoosync-magento",
   "type": "magento2-module",
-  "description": "test de module Magento",
+  "description": "Module Atoo-Sync GesCom pour Magento 2",
   "autoload": {
     "psr-4": {
       "AtooSync\\GesCom\\": ""
