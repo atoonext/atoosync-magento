@@ -290,7 +290,7 @@ class UpgradeSchema implements  UpgradeSchemaInterface
                     'length'    => 255,
                     'unsigned' => true,
                     'nullable' => true,
-                    'default' => '0',
+                    'default' => '',
                     'afters' => 'document_reference',
                     'comment' => 'Document Name'
                 ]);
